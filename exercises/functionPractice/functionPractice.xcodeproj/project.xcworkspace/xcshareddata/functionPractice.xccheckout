@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>566D7CDF-90B2-42EA-8268-7F180E15F372</string>
+	<key>IDESourceControlProjectName</key>
+	<string>functionPractice</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>246DDD03F0DDA4171E51B8D480D0D11CB5321FDC</key>
+		<string>github.com:manji602/swift_training.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>exercises/functionPractice/functionPractice.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>246DDD03F0DDA4171E51B8D480D0D11CB5321FDC</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:manji602/swift_training.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>246DDD03F0DDA4171E51B8D480D0D11CB5321FDC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>246DDD03F0DDA4171E51B8D480D0D11CB5321FDC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>swift_training</string>
+		</dict>
+	</array>
+</dict>
+</plist>
