@@ -17,7 +17,6 @@ var variables = 0
 let CONSTANTS_DOUBLE: Double = 1.0
 ```
 
-
 キャストする場合は型()で呼び出す。
 
 ```

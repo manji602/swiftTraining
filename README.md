@@ -6,13 +6,13 @@ The Swift Programming Languageをなんとなく読んで作ったまとめ
 
 1. The Basics
 2. Basic Operators
-3. Strings and Characters
+3. [Strings and Characters](https://github.com/manji602/swift_training/blob/master/docs/03_Strings_and_Characters.md)
 4. Collection Types
 5. Control Flow
 6. Functions
 7. Closures
 8. Enumerations
-9. Classes and Structures
+9. Classes and Structures(https://github.com/manji602/swift_training/blob/master/docs/09_Class_and_Structures.md)
 10. Properties
 11. Methods
 12. Subscripts
