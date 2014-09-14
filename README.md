@@ -1,6 +1,6 @@
 Swift Training
 ======
-The Swift Programming Languageをなんとなく読んで作ったまとめ
+[The Swift Programming Language](https://itunes.apple.com/jp/book/swift-programming-language/id881256329?mt=11)をなんとなく読んで作ったまとめ
 
 目次はLanguage Guideに準拠しているが、中身はまだWelcome to Swift内で取り上げられた内容にとどまっている
 
@@ -9,7 +9,7 @@ The Swift Programming Languageをなんとなく読んで作ったまとめ
 3. [Strings and Characters](https://github.com/manji602/swift_training/blob/master/docs/03_Strings_and_Characters.md)
 4. Collection Types
 5. Control Flow
-6. Functions
+6. [Functions](https://github.com/manji602/swift_training/blob/master/docs/06_Functions.md)
 7. Closures
 8. Enumerations
 9. [Classes and Structures](https://github.com/manji602/swift_training/blob/master/docs/09_Class_and_Structures.md)
