@@ -12,7 +12,7 @@ The Swift Programming Languageをなんとなく読んで作ったまとめ
 6. Functions
 7. Closures
 8. Enumerations
-9. Classes and Structures(https://github.com/manji602/swift_training/blob/master/docs/09_Class_and_Structures.md)
+9. [Classes and Structures](https://github.com/manji602/swift_training/blob/master/docs/09_Class_and_Structures.md)
 10. Properties
 11. Methods
 12. Subscripts
