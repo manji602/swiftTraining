@@ -31,7 +31,7 @@ StringとIntを受け取ってStringを返す関数のサンプル
     }
 ```
 
-連想配列を返す関数のサンプル
+配列を返す関数のサンプル
 
 ```
     func functionSampleReturnsHash() -> (min: Int, max: Int) {
