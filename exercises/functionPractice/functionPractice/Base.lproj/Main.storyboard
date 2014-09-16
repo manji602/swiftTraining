@@ -22,7 +22,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="onClickButton" destination="vXZ-lx-hvc" eventType="touchDown" id="yVZ-Tn-uoX"/>
+                                    <action selector="onClickButton" destination="vXZ-lx-hvc" eventType="touchDown" id="Rid-MD-7sr"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -33,7 +33,7 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="button" destination="REy-mK-sh8" id="LjL-DA-drk"/>
+                        <outlet property="button" destination="REy-mK-sh8" id="rG7-1f-D2H"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>

@@ -9,8 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
-    @IBOutlet var button:UIButton?
-    var _calcCircle:calcCircle?
+    @IBOutlet var button:UIButton!
+    var _calcCircle:calcCircle!
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -25,7 +25,7 @@ class ViewController: UIViewController {
 
     @IBAction func onClickButton() {
         let RADIUS: Int = 10
-        var result = _calcCircle?.execute(RADIUS)
+        var result = _calcCircle!.execute(RADIUS)
         println(result)
     }
 }
